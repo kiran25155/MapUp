@@ -1,0 +1,9 @@
+aside{
+    padding: 10px;
+    position: fixed;
+    margin-top: 50px;
+    height: 650px;
+    background-color: darkcyan;
+    color:aliceblue;
+    justify-content: center;
+}

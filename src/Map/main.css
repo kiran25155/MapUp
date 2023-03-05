@@ -1,0 +1,15 @@
+
+  .container1{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-grow: initial;
+  }
+  Aside{
+    flex: 20%;
+  }
+  .form{
+    margin-top: 100px;
+    text-align: center;
+    flex:80%;
+  }
